@@ -1,0 +1,6 @@
+chat_models:
+  gpt-4o: "gpt-4o"
+  gpt-41: "gpt-4.1"
+model_params:
+  temperature: 0.2
+  

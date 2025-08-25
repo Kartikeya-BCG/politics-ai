@@ -1,0 +1,4 @@
+system_static_prompts:
+  no_answer: "Apologies but I would not be able to answer this question. I'm a politics expert and would be happy to answer any politics & diplomacy related questions."
+  closing_sentence: "Please feel free to ask any other thing related to domestic & international politics? \n (Type 'Quit' to exit the conversation)"
+  starting_sentence: "Hello! I'm a politics expert. Shoot your political questions right at me!!😉"
