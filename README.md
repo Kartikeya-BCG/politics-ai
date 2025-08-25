@@ -34,3 +34,7 @@ The config files in /config folder contains model parameters and some static pro
 - Make /src folder a sources root folder in pycharm/vscode (it's also specified as PYTHONPATH in env file)
 - Activate the virtual environment
 - Setup the Run / Debug configuration to point to file main.py or you can directly execute this file from IDE
+
+## Sample Screenshhots
+<img width="997" height="385" alt="image" src="https://github.com/user-attachments/assets/ebae82ad-a0f8-4a63-a8e3-1e8eb79f27e8" />
+
